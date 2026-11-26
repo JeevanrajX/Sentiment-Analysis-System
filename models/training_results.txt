@@ -1,0 +1,13 @@
+LOGISTIC REGRESSION TRAINING RESULTS
+==================================================
+
+STANDARD
+Accuracy: 0.6755
+Macro F1: 0.6350
+
+BALANCED
+Accuracy: 0.6700
+Macro F1: 0.6506
+
+Selected model: balanced
+Best validation macro F1: 0.6506

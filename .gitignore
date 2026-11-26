@@ -1,0 +1,22 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Dataset files
+dataset/*.csv
+
+# Large training feature matrices
+models/*.npz
+models/*.npy
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
