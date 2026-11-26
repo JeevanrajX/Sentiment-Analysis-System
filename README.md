@@ -419,22 +419,3 @@ http://127.0.0.1:5000
 
 
 \## Author
-
-
-
-\*\*Jeevanraj\*\*
-
-
-
-Computer Science and Engineering
-
-
-
-\---
-
-
-
-\*Developed as a Machine Learning internship project.\*
-
-
-
